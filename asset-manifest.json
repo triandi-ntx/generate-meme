@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/generate-meme/static/js/main.b334d240.js",
+    "index.html": "/generate-meme/index.html",
+    "main.b334d240.js.map": "/generate-meme/static/js/main.b334d240.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b334d240.js"
+  ]
+}
