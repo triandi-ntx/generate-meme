@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/generate-meme/static/js/main.b334d240.js",
+    "main.js": "/generate-meme/static/js/main.af11a7b2.js",
     "index.html": "/generate-meme/index.html",
-    "main.b334d240.js.map": "/generate-meme/static/js/main.b334d240.js.map"
+    "main.af11a7b2.js.map": "/generate-meme/static/js/main.af11a7b2.js.map"
   },
   "entrypoints": [
-    "static/js/main.b334d240.js"
+    "static/js/main.af11a7b2.js"
   ]
 }
